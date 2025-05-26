@@ -1,6 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
-import numpy as np
+
 # commands that are called without explicit need of st.write() function
 def magic():
     "Welcome to streamlit"
